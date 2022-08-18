@@ -33,7 +33,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 The following video shows an example of the application being used from the command line:
 
-
+![Untitled_ Aug 18, 2022 2_32 PM](https://user-images.githubusercontent.com/106767290/185479388-b361a6e5-a779-469a-a840-b928896cb877.gif)
 
 ## Tables:
 
